@@ -2,13 +2,20 @@
  * Date and Time
  * --------------------------------
  * Date, Time => java.util.Date()
- * Calender
+ * Calender => java.util.Calendar()
+ *
+ * --------------------------------
+ * Java SE 8 classes
  * Date => java.time.LocalDate
  * Time => java.time.LocalTime
  * Date, Time => java.time.LocalDateTime
+ * --------------------------------
+ *
  * Date => java.sql.Date
  * Time => java.sql.Time
  *
+ *
+ * If we want to make some reservation
  * */
 
 
